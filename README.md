@@ -3,9 +3,9 @@
 ### Comp History
 
 #### Dec 2024-2025
-- Bronze 1000/1000
-- Silver 1000/1000
-- Gold   mostly will not qualify for plat :(
+- Bronze: 1000/1000
+- Silver: 1000/1000
+- Gold:   mostly will not qualify for plat :(
 
 
 
