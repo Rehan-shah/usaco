@@ -13,7 +13,7 @@
 
 Each problem will be organized within a structured folder hierarchy as follows:
 
-1. **Year Folder**: Named after the year (e.g., `2024`).
+1. **Year Folder**: Named after the year (e.g., `2024-2025`).
 2. **Month Folder**: Located inside the year folder, named after the month (e.g., `August`).
 3. **Division Folder**: Located inside the month folder, named after the respective division.
 
@@ -34,7 +34,7 @@ Each problem will be organized within a structured folder hierarchy as follows:
 ```
 2024-2025/
 │
-├── Dec/
+├── december/
 │   ├── gold/
 │   │   ├── gold1s5.cpp    # Passed 5 test cases
 │   │   ├── gold2.cpp     # Passed all test cases
